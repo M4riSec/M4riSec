@@ -1,9 +1,12 @@
-![Profile picture](https://github.com/M4riSec/M4riSec/assets/103901296/03a432d9-35c4-4e30-9f88-02f02c1e8ed2)<h1>Hi, I'm Marion! <br/> <a href="https://www.linkedin.com/in/marion-d-350a58142/">Cybersecurity Professional</a>
+<h1>Hi, I'm Marion! <br/> <a href="https://www.linkedin.com/in/marion-d-350a58142/">Cybersecurity Professional</a></h1>
+  
+This is my professional portfolio to visualize my homelab experiences. I'm passionate about Information Security and am always expanding my abilities in the space. Feel free to explore the different projects I've put together.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+
+- <b>Cloud</b>
+  - [Building a SOC + Honeynet in Azure (w/ Live Traffic)](https://github.com/M4riSec/AzureNetSec/blob/main/AzureNetSec.md)
 
 <h2> 🤳 Connect with me:</h2>
 
