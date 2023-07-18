@@ -12,6 +12,9 @@ This is my professional portfolio to visualize my homelab experiences. I'm passi
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="TryHackMe" width="150px" 
+src="https://tryhackme-badges.s3.amazonaws.com/M4riSec.png" />][TryHackMe]
 
 [twitter]: https://twitter.com/M4riSec
 [linkedin]: https://www.linkedin.com/in/marion-d-350a58142/
+[TryHackMe]: https://tryhackme.com/p/M4riSec
